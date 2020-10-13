@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' https://github.com/jabrian45/Jabrian_Interpase/blob/main/Jabrianwalkthhough1.gif' width=; https://github.com/jabrian45/Jabrian_Interpase/blob/main/Jabrianwalkthrough%202.gif'' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' https://github.com/jabrian45/Jabrian_Interpase/blob/main/Jabrianwalkthrough%202.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
